@@ -1,0 +1,18 @@
+Train - Version 3
+
+Configuration
+initial_lrate = 0.001
+drop = 0.1
+epochs_drop = 30.0
+
+opt = SGD(learning_rate=1e-4, momentum=0.9, nesterov=True)
+
+100 Epochs:
+categorical_accuracy: 0.9755 - loss: 0.0898
+Test loss: 0.09572011232376099
+Test accuracy: 0.9733333587646484
+
+50 Epochs:
+categorical_accuracy: 0.9706 - loss: 0.1039
+Test loss: 0.10617533326148987
+Test accuracy: 0.9692592620849609
