@@ -1,5 +1,10 @@
 # Defense Terrain Intelligence through CNN-Based Satellite Imagery Classification
 
+## Demo Video
+
+[👉Click here to watch the demo video](https://drive.google.com/file/d/1hVUTh-31b9VBF0Eg67j4-NQgxOpPIFFz/view?usp=sharing)
+
+
 ## Overview
 
 This project demonstrates the classification of satellite images using a custom Convolutional Neural Network (CNN). The model is tailored for defense-focused applications, such as strategic terrain assessment and surveillance. It classifies images from the EuroSAT dataset into ten distinct land-use classes, which are highly relevant for defense planning and situational awareness.
