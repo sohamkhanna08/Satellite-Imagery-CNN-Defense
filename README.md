@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-👉 [Click here to watch the project demo video]([[https://drive.google.com/file/d/1hVUTh-31b9VBF0Eg67j4-NQgxOpPIFFz/view?usp=sharing](https://youtu.be/7kphF2olIks)])
+👉 [Click here to watch the project demo video]([https://youtu.be/7kphF2olIks?si=LUfPFst6LnwKULyW])
 
 
 ## Overview
