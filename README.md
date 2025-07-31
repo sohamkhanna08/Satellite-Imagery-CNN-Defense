@@ -1,8 +1,8 @@
 # Defense Terrain Intelligence through CNN-Based Satellite Imagery Classification
 
-## Demo Video
+## Project Demo Video
 
-👉 [Click here to watch the project demo video]([https://youtu.be/7kphF2olIks?si=LUfPFst6LnwKULyW])
+👉 [Click here to watch the project demo video](https://youtu.be/7kphF2olIks)
 
 
 ## Overview
