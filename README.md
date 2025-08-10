@@ -120,9 +120,9 @@ Future improvements could include:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sohamkhanna08/Satellite-Imagery-CNN-Defence.git
+    git clone https://github.com/sohamkhanna08/Satellite-Imagery-CNN-Defense.git
 
-    cd Satellite-Imagery-CNN-Defence
+    cd Satellite-Imagery-CNN-Defense
     ```
 
 2. Install the required packages:
