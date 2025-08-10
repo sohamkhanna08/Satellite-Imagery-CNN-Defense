@@ -1,4 +1,4 @@
-# Defense Terrain Intelligence through CNN-Based Satellite Imagery Classification
+# Defence Terrain Intelligence through CNN-Based Satellite Imagery Classification
 
 ## Project Demo Video
 
@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project demonstrates the classification of satellite images using a custom Convolutional Neural Network (CNN). The model is tailored for defense-focused applications, such as strategic terrain assessment and surveillance. It classifies images from the EuroSAT dataset into ten distinct land-use classes, which are highly relevant for defense planning and situational awareness.
+This project demonstrates the classification of satellite images using a custom Convolutional Neural Network (CNN). The model is tailored for defence-focused applications, such as strategic terrain assessment and surveillance. It classifies images from the EuroSAT dataset into ten distinct land-use classes, which are highly relevant for defence planning and situational awareness.
 
 <p align="center"><img src = "Resources/Satellite Image Classification.png" width="800"/></p>
 
@@ -29,7 +29,7 @@ This project demonstrates the classification of satellite images using a custom 
 
 ## Introduction
 
-Satellite image classification plays a crucial role in defense applications such as border surveillance, terrain monitoring, and strategic planning. This project leverages deep learning, particularly CNNs, to classify satellite images into ten categories: AnnualCrop, Forest, HerbaceousVegetation, Highway, Industrial, Pasture, PermanentCrop, Residential, River, and SeaLake — all of which are vital for military terrain intelligence.
+Satellite image classification plays a crucial role in defence applications such as border surveillance, terrain monitoring, and strategic planning. This project leverages deep learning, particularly CNNs, to classify satellite images into ten categories: AnnualCrop, Forest, HerbaceousVegetation, Highway, Industrial, Pasture, PermanentCrop, Residential, River, and SeaLake — all of which are vital for military terrain intelligence.
 
 ## Dataset
 
@@ -105,7 +105,7 @@ Three different configurations were tested to determine the best model. The best
 
 ## Conclusion
 
-This project demonstrates the effectiveness of CNNs in satellite image classification, particularly for defense-focused terrain intelligence. The custom **SpectrumNet** architecture achieved high accuracy, highlighting the importance of meticulous data preprocessing, robust training strategies, and detailed performance evaluation.
+This project demonstrates the effectiveness of CNNs in satellite image classification, particularly for defence-focused terrain intelligence. The custom **SpectrumNet** architecture achieved high accuracy, highlighting the importance of meticulous data preprocessing, robust training strategies, and detailed performance evaluation.
 
 ## Future work
 
@@ -114,15 +114,15 @@ Future improvements could include:
 - Exploring advanced neural network architectures
 - Implementing transfer learning techniques
 - Expanding the dataset through advanced augmentation or synthetic data generation
-- Integrating multi-temporal or multi-spectral satellite data for richer defense analytics
+- Integrating multi-temporal or multi-spectral satellite data for richer defence analytics
 
 ## Installation
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/sohamkhanna08/Satellite-Imagery-CNN-Defense.git
+    git clone https://github.com/sohamkhanna08/Satellite-Imagery-CNN-Defence.git
 
-    cd Satellite-Imagery-CNN-Defense
+    cd Satellite-Imagery-CNN-Defence
     ```
 
 2. Install the required packages:
@@ -152,7 +152,7 @@ To use the graphical interface for classifying satellite images:
 
 ## Model architecture
 
-A custom CNN architecture named SpectrumNet was designed, consisting of multiple convolutional and spectral blocks to capture multi-scale features from the input images. The architecture leverages Batch Normalization and ReLU activation to stabilize and accelerate training. This model was optimized with defense-specific terrain recognition tasks in mind.
+A custom CNN architecture named SpectrumNet was designed, consisting of multiple convolutional and spectral blocks to capture multi-scale features from the input images. The architecture leverages Batch Normalization and ReLU activation to stabilize and accelerate training. This model was optimized with defence-specific terrain recognition tasks in mind.
 
 <p align="center"><img src = "Resources/architecture_cnn.png" width="400"/></p>
 
