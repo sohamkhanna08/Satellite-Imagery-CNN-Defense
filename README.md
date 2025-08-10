@@ -1,4 +1,4 @@
-# Defence Terrain Intelligence through CNN-Based Satellite Imagery Classification
+# Defense Terrain Intelligence through CNN-Based Satellite Imagery Classification
 
 ## Project Demo Video
 
