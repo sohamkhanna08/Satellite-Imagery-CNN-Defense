@@ -9,7 +9,7 @@
 
 This project demonstrates the classification of satellite images using a custom Convolutional Neural Network (CNN). The model is tailored for defence-focused applications, such as strategic terrain assessment and surveillance. It classifies images from the EuroSAT dataset into ten distinct land-use classes, which are highly relevant for defence planning and situational awareness.
 
-<p align="center"><img src = "Resources/Satellite Image Classification.png" width="800"/></p>
+<p align="center"><img src = "Resources/Satellite_Image_Classification.png" width="800"/></p>
 
 ## Table of contents
 1. [Introduction](#introduction)
